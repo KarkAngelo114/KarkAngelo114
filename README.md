@@ -12,4 +12,5 @@ I'm **Kark Angelo** (you can call me `Kark` or `Angelo`), I'm a BSIT graduate in
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-navy?style=for-the-badge&logo=python&logoColor=yellow)
 
-I'm interested on web/mobile deveploment and deep-learning.
+I'm interested on web/mobile deveploment and deep-learning. To view my projects and repos, please visit here:
+[https://github.com/KarkAngelo114?tab=repositories](https://github.com/KarkAngelo114?tab=repositories)
