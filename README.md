@@ -11,6 +11,9 @@ I'm **Kark Angelo** (you can call me `Kark` or `Angelo`), I'm a BSIT graduate in
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-navy?style=for-the-badge&logo=python&logoColor=yellow)
+![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 I'm interested on web/mobile deveploment and deep-learning. To view my projects and repos, please visit here:
 [https://github.com/KarkAngelo114?tab=repositories](https://github.com/KarkAngelo114?tab=repositories)
